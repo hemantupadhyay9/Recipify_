@@ -1,32 +1,5 @@
-<h1 align="center">Forkify App</h1>
-<p align="center">
-    <img src="./src/img/favicon.png" alt="Logo" width="15%" height="auto">
- </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://forkify-alamin.netlify.app/" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/demo-online-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg" />
-  </a>
-  <a href="https://github.com/CodePapa360/Forkify-Recipe-App/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-  <a href="https://twitter.com/CodePapa360" target="_blank">
-    <img alt="Twitter: CodePapa360" src="https://img.shields.io/twitter/follow/CodePapa360.svg?style=social" />
-  </a>
-</p>
-
-<h2 align="center">
-Check out the <a href="https://forkify-alamin.netlify.app/" target="_blank">live Forkify App here</a>.
-</h2>
-<p align="left">
-Forkify is a recipe search and saving app, built with HTML5, CSS3, and JavaScript. It features an intuitive user interface and dynamic serving size adjustment. The app uses advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming. Forkify was created by Jonas Smechmann in his Udemy course and this app was built as part of a personal project to learn JavaScript.
+It is a recipe search and saving app, built with HTML5, CSS3, and JavaScript. It features an intuitive user interface and dynamic serving size adjustment. The app uses advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming. Forkify was created by Jonas Smechmann in his Udemy course and this app was built as part of a personal project to learn JavaScript.
 </p>
 
 ## Features
