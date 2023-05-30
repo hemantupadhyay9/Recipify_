@@ -19,9 +19,7 @@ It is a recipe search and saving app, built with HTML5, CSS3, and JavaScript. It
 - Parcel
 - NPM
 
-<p align="center">
-  <img alt="Forkify App" src="./src/img/forkify-alamin-screenshot.png" width="100%" />
-</p>
+
 
 ## Flowchart
 
