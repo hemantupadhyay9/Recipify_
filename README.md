@@ -84,25 +84,11 @@ npm start
 
 ## Author
 
-<b>👤 Alamin</b>
+<b>👤 HEMANT UPADHYAY</b>
 
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- LinkedIn - https://www.linkedin.com/in/hemant-upadhyay-0552a5200/
+- Twitter - https://twitter.com/hemantasm
 
 Feel free to contact me with any questions or feedback!
 
-## Credits
 
-This app was created as part of [Jonas Smechmann](https://twitter.com/jonasschmedtman)'s Udemy course [The Complete JavaScript Course 2023: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/).
-
-Special thanks to Jonas for his excellent teaching and guidance throughout the course.
-
-## Show your support
-
-Give a ⭐️ if you liked this project!
-
-## License
-
-This project is [MIT](https://github.com/codepapa360/Forkify-Recipe-App/blob/master/LICENSE) licensed.
