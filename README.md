@@ -33,25 +33,7 @@ It is a recipe search and saving app, built with HTML5, CSS3, and JavaScript. It
   <img alt="Recipe Loading Architecture" src="./forkify-architecture-recipe-loading.png" width="100%" />
 </p>
 
-## Installation
 
-- Clone this repo:
-
-```sh
-git clone https://github.com/CodePapa360/Forkify-Recipe-App.git
-```
-
-- Install dependencies:
-
-```sh
-npm install
-```
-
-- Run the app:
-
-```sh
-npm start
-```
 
 ## Author
 
